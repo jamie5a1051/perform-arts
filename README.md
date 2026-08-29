@@ -1,2 +1,0 @@
-# perform-arts
-perform-arts
